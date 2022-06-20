@@ -1,0 +1,6 @@
+UniqueId: 311625
+Resource Group: learn-d4265e86-ba62-4725-83ef-34535a6914cc
+Region: westus
+Server name: bus-server311625
+
+Server=bus-server311625.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=Mahajan@1979;Connection Timeout=30;
